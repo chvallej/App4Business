@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Security Module -->
+    <string name="label_login_welcome_back">Bienvenido,</string>
+    <string name="label_login_sign_in_to_continue">Autenticarse para continuar</string>
+    <string name="label_login_user">Usuario</string>
+    <string name="label_login_password">Contraseña</string>
+    <string name="label_login_forgot_password">Olvido la Contraseña?</string>
+    <string name="label_login_btn_login">Autenticarse</string>
+    <string name="label_login_new_user">Usuario nuevo?</string>
+    <string name="label_login_sign_up">Registrarse</string>
+    <string name="label_sign_up_account_information">Informacion Cuenta</string>
+    <string name="label_sign_up_email">Email</string>
+    <string name="label_sign_up_username">Usuario</string>
+    <string name="label_sign_up_password">Contraseña</string>
+    <string name="label_sign_up_profile_information">Informacion Perfil</string>
+    <string name="label_sign_up_full_name">Nombre Completo</string>
+    <string name="label_sign_up_document_type">Tipo de Documento</string>
+    <string name="label_sign_up_document_id">Numero documento</string>
+    <string name="label_sign_up_address">Direccion</string>
+    <string name="label_sign_up_city">Ciudad</string>
+    <string name="label_sign_up_mobile">Movil</string>
+    <string name="label_sign_up_already_account">Ya tienes una cuenta?</string>
+    <string name="label_sign_up_sign_in">Autenticarse</string>
+    <!-- error messages -->
+    <string name="error_provide_username">Proporcionar Usuario</string>
+    <string name="error_provide_password">Proporcionar Contraseña</string>
+    <string name="error_login_failed">Autenticación Fallo</string>
+    <string name="error_login_success">Autenticación Exitosa</string>
+    <string name="error_provide_document_id">Proporcionar numero documento</string>
+    <string name="error_provide_document_type">Proporcionar un tipo de documento valido</string>
+    <string name="error_provide_city">Proporcionar ciudad</string>
+    <string name="error_provide_address">Proporcionar Direccion</string>
+    <string name="error_provide_mobile">Proporcionar numero movil</string>
+    <string name="error_provide_name">Proporcionar Nombre</string>
+    <string name="error_provide_email">Proporcionar Email</string>
+    <!-- status messages -->
+    <string name="status_connecting_to_server">Conectando&#8230;</string>
+    <string name="status_logging_in">Autenticacion en progreso&#8230;</string>
+    <string name="status_login_success">Autenticacion Exitosa</string>
+    <string name="status_creating_account">Creando cuenta</string>
+    <string name="status_redirecting">Redireccionando&#8230;</string>
+
+    <!-- Toast Messages -->
+    <string name="toast_network_required">Red requerida</string>
+    <string name="toast_loggin_success">Autenticación exitosa</string>
+    <string name="toast_create_account_success">La cuenta ha sido creada</string>
+    <string name="toast_create_account_fail">Error creando la cuenta</string>
+    <string name="toast_account_already_exist">La cuenta ya existe</string>
+</resources>

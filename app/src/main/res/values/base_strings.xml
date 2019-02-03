@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Security Module -->
+    <string name="label_login_welcome_back">Welcome Back,</string>
+    <string name="label_login_sign_in_to_continue">Sign in to continue</string>
+    <string name="label_login_user">User</string>
+    <string name="label_login_password">Password</string>
+    <string name="label_login_forgot_password">Forgot Password?</string>
+    <string name="label_login_btn_login">Login</string>
+    <string name="label_login_new_user">New user? </string>
+    <string name="label_login_sign_up">Sign Up</string>
+    <string name="label_sign_up_account_information">Account Information</string>
+    <string name="label_sign_up_email">Email</string>
+    <string name="label_sign_up_username">Username</string>
+    <string name="label_sign_up_password">Password</string>
+    <string name="label_sign_up_profile_information">Profile Information</string>
+    <string name="label_sign_up_full_name">Full Name</string>
+    <string name="label_sign_up_document_type">Document Type</string>
+    <string name="label_sign_up_document_id">Document ID</string>
+    <string name="label_sign_up_address">Address</string>
+    <string name="label_sign_up_city">City</string>
+    <string name="label_sign_up_mobile">Mobile</string>
+    <string name="label_sign_up_already_account">Already have an account?</string>
+    <string name="label_sign_up_sign_in">Sign In</string>
+    <!-- error messages -->
+    <string name="error_provide_username">Provide username</string>
+    <string name="error_provide_password">Provide password</string>
+    <string name="error_login_failed">Login Failed</string>
+    <string name="error_login_success">Login Success</string>
+    <string name="error_provide_document_id">Provide document id</string>
+    <string name="error_provide_document_type">Provide valid document type</string>
+    <string name="error_provide_city">Provide city</string>
+    <string name="error_provide_address">Provide address</string>
+    <string name="error_provide_mobile">Provide mobile</string>
+    <string name="error_provide_name">Provide Name</string>
+    <string name="error_provide_email">Provide email</string>
+    <!-- status messages -->
+    <string name="status_connecting_to_server">Connecting&#8230;</string>
+    <string name="status_logging_in">Logging in&#8230;</string>
+    <string name="status_login_success">Login Success</string>
+    <string name="status_creating_account">Creating account</string>
+    <string name="status_redirecting">Redirecting&#8230;</string>
+
+    <!-- Toast Messages -->
+    <string name="toast_network_required">Network required</string>
+    <string name="toast_loggin_success">Logging successfull</string>
+    <string name="toast_create_account_success">The account has been created</string>
+    <string name="toast_create_account_fail">Error creating account</string>
+    <string name="toast_account_already_exist">The account already exist</string>
+
+
+</resources>
